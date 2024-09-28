@@ -1,4 +1,4 @@
-# Data Cleaning and Organizing with Pandas
+# Data Cleaning and Organizing
 
 A comprehensive project demonstrating data cleaning and organization Python's Pandas library, with regular expressions to clean unstructured data and perform basic statistical calculations. This project emphasizes transforming messy datasets into well-structured and ready-to-analyze data.
 
