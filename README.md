@@ -19,7 +19,7 @@ This project showcases a data cleaning and organizing pipeline developed with Py
 
 - **Data Cleaning:** Identify and fix missing, erroneous, or inconsistent data to ensure dataset quality.
 - **Data Organization:** Restructure the dataset for better usability and further analysis.
-- **Basic Statistical Analysis:** Perform descriptive statistics such as mean, median and mode to understand the dataset’s characteristics.
+- **Basic Statistical Analysis:** Perform descriptive statistics such as mean, median, and mode to understand the dataset’s characteristics.
 - **Regular Expression (Regex) Support:** Extract, clean, or standardize unstructured data elements using regex patterns.
 
 ## Installation
@@ -50,7 +50,7 @@ This project showcases a data cleaning and organizing pipeline developed with Py
     cd data_cleaning_and_organizing
     ```
 
-4. **Install the required dependencies:**
+5. **Install the required dependencies:**
 
     ```bash
     pip install pandas
@@ -60,11 +60,11 @@ This project showcases a data cleaning and organizing pipeline developed with Py
 ## Usage
 
 - ***Data Cleaning:***
-  - Execute the notebook script to clean dataset and handle missing values, duplicate records, or incorrect formatting.
+  - Execute the notebook script to clean the dataset and handle missing values, duplicate records, or incorrect formatting.
 - ***Data Organizing:***
-  - Restructure cleaned data, preparing it for analysis or reporting.
+  - Restructure cleaned data and prepare it for analysis or reporting.
 - ***Statistical Summary:***
-  - Get basic statistical insights, helping understand the dataset's key properties.
+  - Get basic statistical insights to help understand the dataset's key properties.
 
 ## Contributing
 
