@@ -1,6 +1,6 @@
 # Data Cleaning and Organizing
 
-A comprehensive project demonstrating data cleaning and organization Python's Pandas library, with regular expressions to clean unstructured data and perform basic statistical calculations. This project emphasizes transforming messy datasets into well-structured and ready-to-analyze data.
+A comprehensive project demonstrating data cleaning and organization using Python's Pandas library, with regular expressions to clean unstructured data and perform basic statistical calculations. This project emphasizes transforming messy datasets into well-structured and ready-to-analyze data.
 
 ## Table of Contents
 
@@ -11,9 +11,11 @@ A comprehensive project demonstrating data cleaning and organization Python's Pa
 - [Contributing](#contributing)
 - [License](#license)
 
+
 ## Introduction
 
-This project showcases a data cleaning and organizing pipeline developed with Python's Pandas library. It focuses on resolving common data issues like missing values, inconsistent formatting, and unstructured data using regular expressions, alongside performing basic statistical analysis to summarize the data.
+This project showcases a data cleaning and organizing pipeline developed with Python's Pandas library. It focuses on resolving common data issues, such as missing values, inconsistent formatting, and unstructured data, using regular expressions, while also performing basic statistical analysis to summarize the data.
+
 
 ## Features
 
@@ -21,6 +23,7 @@ This project showcases a data cleaning and organizing pipeline developed with Py
 - **Data Organization:** Restructure the dataset for better usability and further analysis.
 - **Basic Statistical Analysis:** Perform descriptive statistics such as mean, median, and mode to understand the dataset’s characteristics.
 - **Regular Expression (Regex) Support:** Extract, clean, or standardize unstructured data elements using regex patterns.
+
 
 ## Installation
 
@@ -57,18 +60,21 @@ This project showcases a data cleaning and organizing pipeline developed with Py
     pip install regex
     ```
 
+
 ## Usage
 
 - ***Data Cleaning:***
-  - Execute the notebook script to clean the dataset and handle missing values, duplicate records, or incorrect formatting.
+  Execute the notebook script to clean the dataset, handling missing values, duplicate records, and incorrect formatting.
 - ***Data Organizing:***
   - Restructure cleaned data and prepare it for analysis or reporting.
 - ***Statistical Summary:***
   - Get basic statistical insights to help understand the dataset's key properties.
 
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
+
 
 ## License
 
