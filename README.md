@@ -14,7 +14,7 @@ A comprehensive project demonstrating data cleaning and organization using Pytho
 
 ## Introduction
 
-This project showcases a data cleaning and organizing pipeline developed with Python's Pandas library. It focuses on resolving common data issues, such as missing values, inconsistent formatting, and unstructured data, using regular expressions, while also performing basic statistical analysis to summarize the data.
+This project showcases a data cleaning and organizing pipeline developed with Python Libraries. It focuses on resolving common data issues, such as missing values, inconsistent formatting, and unstructured data, using regular expressions, while also performing basic statistical analysis to summarize the data, including visualization.
 
 
 ## Features
